@@ -1,5 +1,5 @@
 <h2> 👋 Hey I'm Gabriel. A developer in development, currently focusing on front-end. </h2>
-<h3>I'm an undergraduate in Information Systems from the Federal University of Rio Grande do Norte (UFRN), but I am also studying Web development and improving my English on my free time. </h3>
+<h4>I'm an undergraduate in Information Systems from the Federal University of Rio Grande do Norte (UFRN), but I am also studying Web development and improving my English on my free time. </h4>
 
 <h5 align="center">(Please, Don't judge my total commits, it's a dark time buddy)</h5>
 
